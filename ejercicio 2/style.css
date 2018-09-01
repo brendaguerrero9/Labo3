@@ -1,0 +1,50 @@
+h1{
+    color: blue;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 3.5rem;
+    margin: 0%;
+    margin-bottom: 0.8%;
+}
+
+td{
+    width: 90px;
+    height: 90px;
+    text-align: center;
+    margin: 0%;
+}
+
+table td p{
+    visibility: hidden;
+    width: 90px;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0%;
+}
+
+
+table td:hover p{
+    visibility: visible;
+    background:rgba(255, 0, 0, 0.5);
+}
+
+.blanco{
+    background-color: white;
+}
+
+.negro{
+    color: white;
+    background-color: black;
+}
+
+td:hover{
+    background:rgba(255, 0, 0, 0.5);
+}
+
+.nombre, .carnet, .git{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+}
