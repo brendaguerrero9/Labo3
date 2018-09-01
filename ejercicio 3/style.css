@@ -1,0 +1,128 @@
+.boton{
+    text-transform: uppercase;
+    background-color:#f4f3f2;
+    border: 0;
+    color: #6f6f6f;
+    padding: 10px 20px 10px 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+.pequeño{
+    font-size: 10px;
+}
+
+.grande{
+    font-size: 25px;
+}
+
+.esme{
+    background-color:#57d68d;
+    color: white;
+}
+
+.cielo{
+    background-color: #5cace2;
+    color: white;
+}
+
+.amatis{
+    background-color: #ae7ac4;
+    color: white;
+}
+
+.asfal{
+    background-color: #5c6d7e;
+    color: white;
+}
+
+.topa{
+    background-color: #ea974e;
+    color: white;
+}
+
+.rubi{
+    background-color: #eb6f62;
+    color: white;
+}
+
+.simple{
+    background-color:white;
+    border: 2px;
+    border-style: solid;
+    border-color : #a7a7a7;
+    color: #a7a7a7;
+}
+
+.esmer{
+    background-color:white;
+    border: 2px;
+    border-style: solid;
+    border-color : #57d68d;
+    color: #57d68d;
+}
+
+.ciel, .bCielo{
+    background-color: white;
+    border: 2px;
+    border-style: solid;
+    border-color: #5cace2;
+    color: #5cace2;
+}
+
+.ama{
+    background-color: white;
+    border: 2px;
+    border-style: solid;
+    border-color: #ae7ac4;
+    color: #ae7ac4;
+}
+
+.as{
+    background-color: white;
+    border: 2px;
+    border-style: solid;
+    border-color: #5c6d7e;
+    color: #5c6d7e;
+}
+
+.topaz{
+    background-color: white;
+    border: 2px;
+    border-style: solid;
+    border-color: #ea974e;
+    color: #ea974e;
+}
+
+.rub{
+    background-color: white;
+    border: 2px;
+    border-style: solid;
+    border-color: #eb6f62;
+    color: #eb6f62;
+}
+
+.lAsfal{
+    background-color: #5c6d7e;
+    border: 2px;
+    border-style: solid;
+    border-color: #5c6d7e;
+    font-size: 25px;
+    color: white;
+}
+
+.pEsme{
+    background-color:#57d68d;
+    font-size: 10px;
+    color: white;
+}
+
+.bRubi{
+    background-color: white;
+    border: 2px;
+    border-style: solid;
+    border-color: #eb6f62;
+    font-size: 25px;
+    color: #eb6f62;
+}
